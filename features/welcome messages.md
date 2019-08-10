@@ -3,6 +3,8 @@
 #### What it does
 This feature looks at the name of the eprson joining and provides a custom message based on it.
 
+#### Implementation
+
 ```javascript
 bot.on('guildMemberAdd', member => {
     const username = member.user.username;
