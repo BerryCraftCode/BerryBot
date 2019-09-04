@@ -1,0 +1,4 @@
+# Add Potatoes
+
+#### What It Does
+This addition makes BerryBot a spud
